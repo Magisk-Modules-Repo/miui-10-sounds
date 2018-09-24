@@ -1,7 +1,7 @@
-# Magisk Module Template
+# MIUI 10 SYSTEMLESS SOUNDS
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+**Attention!** Some sounds have to be set manually through settings such as your default alarm sound, default notifications sound, and Phone ringtone!
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+UI Sounds are replaced automatically.
 
-For more information about modules and repos, please check the [official documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+Beware that this is a beta, some sounds may not be working.
