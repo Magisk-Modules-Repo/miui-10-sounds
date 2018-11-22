@@ -4,4 +4,9 @@
 
 UI Sounds are replaced automatically.
 
-Beware that this is a beta, some sounds may not be working.
+Some alarm sounds/ringtones may appear repeated in the ringtone chooser, I think it depends on your rom.
+
+Changelog 22/11/18
+
+-Fix some sound directories
+-Rename charging sound

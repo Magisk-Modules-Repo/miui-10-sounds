@@ -1,0 +1,327 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/media/audio/ui/camera_focus.ogg
+SHA1-Digest: 3TY2bjfymkgB/j2vWCJyuIhfXd0=
+
+Name: system/media/audio/ui/notification_beep_sound_8.ogg
+SHA1-Digest: oVI+zoV76F2paHbk80SLrDuBPHs=
+
+Name: system/media/audio/notifications/Spring.ogg
+SHA1-Digest: PZ4txeW+67VTz2yQeP7+2ltyYCM=
+
+Name: system/media/audio/ui/LowBattery.ogg
+SHA1-Digest: PW1bBXTMdN8pcEvpaWdllseu31E=
+
+Name: system/media/audio/ui/KeypressReturn.ogg
+SHA1-Digest: bOpVoLC/H+G8WEHnAogY+4ksWGI=
+
+Name: system/media/audio/ringtones/Mi.ogg
+SHA1-Digest: aKwSqdDIK3c4YfVZTslI7sj3/xk=
+
+Name: system/media/audio/ringtones/MIX.ogg
+SHA1-Digest: QV2NfDtPp7ymy5MHa7Raxp1z7ic=
+
+Name: system/media/audio/ringtones/Carousel.ogg
+SHA1-Digest: R3sqg1fpROjc1985rRUDczyDv88=
+
+Name: system/media/audio/ui/Delete.ogg
+SHA1-Digest: KzXujA8LvJ17nEivegWeWpunsbw=
+
+Name: system/media/audio/ui/SystemError.ogg
+SHA1-Digest: 6fXdDuXvn9YHwoUIEexllBZY6/o=
+
+Name: system/media/audio/ui/KeypressSpacebar.ogg
+SHA1-Digest: ZAMwlrzpZg5oGlTv5ZXY/u0vEhk=
+
+Name: system/media/audio/ringtones/MiMix2.ogg
+SHA1-Digest: Q6J8psJLTofIXJuovw3mycCEQd4=
+
+Name: system/media/audio/ui/MessageSendOut.ogg
+SHA1-Digest: fADS6uIGvpcNNrZYrqtdGhzXCXQ=
+
+Name: system/media/audio/ringtones/Orange.ogg
+SHA1-Digest: DkvLpqjp/7+tqTXWKOaHsgJpeGE=
+
+Name: system/media/audio/notifications/NotificationXylophone.ogg
+SHA1-Digest: Qbj2SOVJbu61ijszXsqTEcuRlLE=
+
+Name: system/media/audio/ui/MessageSending.ogg
+SHA1-Digest: mtMu7Au06N8wvwtVwMAbJsT6498=
+
+Name: system/media/audio/ui/notification_beep_sound_6.ogg
+SHA1-Digest: PrKrFnjGaPY5Z64BF46ReYKj500=
+
+Name: system/media/audio/ringtones/Raindrops.ogg
+SHA1-Digest: m1bXisSbWJrfl1MPYAv1RRblRyk=
+
+Name: system/media/audio/ringtones/Country.ogg
+SHA1-Digest: Ego/QshyOIm3P0e0Y+uEm38FYhg=
+
+Name: system/media/audio/ui/SystemDelete.ogg
+SHA1-Digest: QPI5tHg2M5/ebIVPRBP+Kckb918=
+
+Name: system/media/audio/alarms/Daydream.ogg
+SHA1-Digest: awFWJqGZC9ZV7XkZOj78tsrWYd0=
+
+Name: system/media/audio/ui/VideoRecord.ogg
+SHA1-Digest: qVlPbXl6GnkLOTfMeIBKMgYG6WE=
+
+Name: system/media/audio/alarms/Chimes.ogg
+SHA1-Digest: HZm9sUHXbKz4QyXA7h70wg53hNc=
+
+Name: system/media/audio/ui/relieve.ogg
+SHA1-Digest: n4Yx2ux2dcUlowJlzeRAsTCQh/E=
+
+Name: system/media/audio/ui/MusicShake.ogg
+SHA1-Digest: mfi2QBCPXOeqGmRmN0Oqgr2X1pE=
+
+Name: system/media/audio/ui/Effect_Tick.ogg
+SHA1-Digest: KgvNW56hLoL73vmuSOfAXxdrjYk=
+
+Name: system/media/audio/ringtones/Leisure.ogg
+SHA1-Digest: Z3x3sb6nsNp5gc0Vt7q/JCtdZTQ=
+
+Name: system/media/audio/ringtones/Blues.ogg
+SHA1-Digest: pFKIkULmmn8eGmhePkXEyp1P6D4=
+
+Name: system/media/audio/ringtones/Lollipop.ogg
+SHA1-Digest: /MdUExMTVGTixoYpn6VY8TxaYKQ=
+
+Name: system/media/audio/notifications/Crystal.ogg
+SHA1-Digest: UJJIFTXpFESIlwPRA6lVG2BSUZ8=
+
+Name: system/media/audio/ringtones/Fantasy.ogg
+SHA1-Digest: ijNuXirATlo+kevw1oNZMYss13o=
+
+Name: system/media/audio/ui/dynamic_alarm_speech.ogg
+SHA1-Digest: PBnBKvkN1ujuatzteIdy1HG8cS0=
+
+Name: system/media/audio/ringtones/ToyRobot.ogg
+SHA1-Digest: BByW/iMvwLW8+6uZcJ1p0FTivDU=
+
+Name: system/media/audio/ui/charging.ogg
+SHA1-Digest: DMr5nbPwi6cdbokC4r17acZyW3M=
+
+Name: system/media/audio/notifications/Frog.ogg
+SHA1-Digest: WPfOe0161cMAjIQKPGguvThVbWQ=
+
+Name: system/media/audio/ui/Lock.ogg
+SHA1-Digest: KUO95+6artkedoAPpKDR9W0MwRI=
+
+Name: system/media/audio/ui/KeypressStandard.ogg
+SHA1-Digest: 5QTLIDbn1LnnxplTbtE1ws0Gp5k=
+
+Name: system/media/audio/ui/notification_beep_sound_3.ogg
+SHA1-Digest: tAwkOycTYz8nNVdFHCBIts6B4Ak=
+
+Name: system/media/audio/ui/notification_beep_sound_1.ogg
+SHA1-Digest: 7tNjLeTjyHwSH9wJ5cFrgOmQUnc=
+
+Name: system/media/audio/ringtones/FieldTrip.ogg
+SHA1-Digest: RZts26J4rDOU8LPjNfLrop0MXGI=
+
+Name: system/media/audio/notifications/FadeOut.ogg
+SHA1-Digest: SITQ6fSsTCSsaJy38eZ1ANxfsPw=
+
+Name: system/media/audio/ui/IncomingMessage.ogg
+SHA1-Digest: efhl+WKgytcIdsRS5GTkm2S99N4=
+
+Name: system/media/audio/ui/camera_click.ogg
+SHA1-Digest: 7JGb6Ci5jEn+X+45mpJvPw+XpmM=
+
+Name: system/media/audio/notifications/Chord.ogg
+SHA1-Digest: vw2H8JReIt8tjcDxIowSSulgNxg=
+
+Name: system/media/audio/notifications/Swoosh.ogg
+SHA1-Digest: VefPYE+KXRUSjJmS0BM4d1Vbl4w=
+
+Name: system/media/audio/notifications/Flute.ogg
+SHA1-Digest: rsw63ynANdhi9rY6KUd5zypFAnY=
+
+Name: system/media/audio/ui/notification_beep_soundseq_1.ogg
+SHA1-Digest: CwE6IPVtMl2c3vvow1KoFvdHKU0=
+
+Name: system/media/audio/alarms/AlarmClock.ogg
+SHA1-Digest: Nscf3EODxQuJbsBIBWvaZWrUa2o=
+
+Name: system/media/audio/notifications/Harp.ogg
+SHA1-Digest: QcKFBluBltMbmM6AuaAmv3s8AcI=
+
+Name: system/media/audio/ringtones/MiRemix.ogg
+SHA1-Digest: VPiYZUqFXmsLdzTEXJa9nf6u5XE=
+
+Name: system/media/audio/ringtones/SpaceAge.ogg
+SHA1-Digest: Rqhf2QWLLnfmR+AYXximwS2Qf+I=
+
+Name: system/media/audio/ui/screenshot.ogg
+SHA1-Digest: 6DFILaPb69C8wc79g4NU5Go2n9U=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: system/media/audio/ringtones/Echo.ogg
+SHA1-Digest: zyIczLdXuRNcPnBlPt3KsqYyHyY=
+
+Name: system/media/audio/ui/notification_beep_sound_9.ogg
+SHA1-Digest: 2DFxswvPrvWDfYcjMj75qYYj+1g=
+
+Name: system/media/audio/ui/VideoStop.ogg
+SHA1-Digest: qVlPbXl6GnkLOTfMeIBKMgYG6WE=
+
+Name: config.sh
+SHA1-Digest: scgDAaYg88p88ruVlt90e5Fyf3o=
+
+Name: system/media/audio/ui/MessageSent.ogg
+SHA1-Digest: EZ2Jy0M0zvG1qYC8x3cLRRrkGTs=
+
+Name: system/media/audio/ringtones/Sunrise.ogg
+SHA1-Digest: kpL/kxPitZG6TQzqqBQKdhbaX7M=
+
+Name: system/media/audio/ui/KeypressDelete.ogg
+SHA1-Digest: WworixW1uTnsr0jvFXATYcRvAJE=
+
+Name: system/media/audio/ui/notification_beep_sound_10.ogg
+SHA1-Digest: KikOXW3PU99gThf4G0ILsly8dFM=
+
+Name: system/media/audio/ringtones/Glockenspiel.ogg
+SHA1-Digest: Hdg6Y4rDA6uTxoh/ikNGGaWwNfs=
+
+Name: system/media/audio/ringtones/Glee.ogg
+SHA1-Digest: ZU1CKtrqViqT+kSGQElWutNZ/fs=
+
+Name: system/media/audio/alarms/Fireflies.ogg
+SHA1-Digest: LK7Kf7CfBBr9kEsH8e8Owc06U0w=
+
+Name: system/media/audio/ui/notification_beep_sound_7.ogg
+SHA1-Digest: OQw6eGUZk2n9CN7cNlMNzddnC0U=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: W9c/DllxnfxrlloMGo5ef2mC+dc=
+
+Name: system/media/audio/ringtones/Childhood.ogg
+SHA1-Digest: /sCKXCB56RzNWUfIOc0Wfd9bVR8=
+
+Name: system/media/audio/ringtones/Candy.ogg
+SHA1-Digest: IE4osapV35JgIi6mI3Two9Z4GPY=
+
+Name: system/media/audio/ui/NumberPickerValueChange.ogg
+SHA1-Digest: ysCTIxTfpYt0g0h8tfKSXFATSdo=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: vSnQkkZmsJNP/jBCCYBo/LzSYg4=
+
+Name: system/media/audio/notifications/Chirp.ogg
+SHA1-Digest: SJ8gXhm/3kEGI5NM7BTAm/WV8p0=
+
+Name: system/media/audio/alarms/Morning.ogg
+SHA1-Digest: cGWcXRtzxbLlDph14Amu+868iKs=
+
+Name: system/media/audio/ringtones/MountainSpring.ogg
+SHA1-Digest: 0MWLQdKdMAS233eocnL/whzfJ7Y=
+
+Name: system/media/audio/ui/Unlock.ogg
+SHA1-Digest: iyy7Uaw2Yp785cT5pU+nEPovZes=
+
+Name: system/media/audio/ringtones/Breeze.ogg
+SHA1-Digest: K4AhU1XbeGq+us6KlTxeOHDSfMk=
+
+Name: README.md
+SHA1-Digest: VEXP+iOE/B50ck+oGhXUmK7tNCk=
+
+Name: system/media/audio/ui/HeiHei.mp3
+SHA1-Digest: Os4ChVi2hU/0SRlNfobAIUWVNVw=
+
+Name: module.prop
+SHA1-Digest: 2BVvC+fH3xI98kAUC03GqRWji/4=
+
+Name: system/media/audio/ui/notification_beep_sound_5.ogg
+SHA1-Digest: Se7t+XUhudO/tS5+BrwLtDiHfaA=
+
+Name: system/media/audio/ui/SystemTurnOff.ogg
+SHA1-Digest: +GPKKDwak84BqpRchiVlD4dgnKY=
+
+Name: system/media/audio/ringtones/Kungfu.ogg
+SHA1-Digest: HAxJSKbBomJhHEYAjgahsuAK6io=
+
+Name: system/media/audio/notifications/Bullfrog.ogg
+SHA1-Digest: 4WCPH1KnaOCfxRD77ypHzC3Jm6g=
+
+Name: system/media/audio/notifications/Bubble.ogg
+SHA1-Digest: QWPgINt3XvK49Hti+x5Jo8zBP3E=
+
+Name: system/media/audio/notifications/Burst.ogg
+SHA1-Digest: IYd7rSWivlZM1c5QC6iZy2C5akk=
+
+Name: system/media/audio/alarms/Beep.ogg
+SHA1-Digest: GroEbNjcEUXLR9qievN5r1G2Snk=
+
+Name: system/media/audio/notifications/Moment.ogg
+SHA1-Digest: 24zaD0w/nkmJJiDVax6OVnjYeww=
+
+Name: system/media/audio/ringtones/AcousticGuitar.ogg
+SHA1-Digest: vA2EzvkbdPiSkkFyhVE7qZn2xUk=
+
+Name: system/media/audio/ui/screenshot_kr.ogg
+SHA1-Digest: ddELQdfgxDjJsrdl3ydeWoOQXug=
+
+Name: system/media/audio/ui/flashlight.ogg
+SHA1-Digest: 2ywt8aR/DzFyBq4i/lqC+sNHOic=
+
+Name: system/media/audio/ringtones/Cowboy.ogg
+SHA1-Digest: 5HA3iAm0IAkG78NEThDUAlaM0ow=
+
+Name: system/media/audio/ringtones/Vigor.ogg
+SHA1-Digest: IyFUYq4i/oycPEaKQlvRAXcVrow=
+
+Name: system/media/audio/ui/charge_wireless.ogg
+SHA1-Digest: RViGy22e3njoLxwq3sB5/um1lBc=
+
+Name: system/media/audio/ui/notification_beep_sound_4.ogg
+SHA1-Digest: VwfrMmEssCnEtqP5jBmk2peErMA=
+
+Name: system/media/audio/notifications/Guitar.ogg
+SHA1-Digest: nf7Zk2Co/HZmbbwwqOKiarmjvko=
+
+Name: common/service.sh
+SHA1-Digest: hCOn0sjc2mEMqqqcb7TFt4BEcVM=
+
+Name: system/media/audio/notifications/Radar.ogg
+SHA1-Digest: TTBwpjfPKxFdehkQzToSOaNQgLw=
+
+Name: system/media/audio/notifications/Potion.ogg
+SHA1-Digest: k0YlRQRN0mYZpL9rvXs4eZSvxRw=
+
+Name: system/media/audio/ringtones/Fairyland.ogg
+SHA1-Digest: t2yHnOXDofV+7TSTyHYOcUaJrgM=
+
+Name: system/media/audio/notifications/Bottle.ogg
+SHA1-Digest: 720LLBRSvNqtd5tL66S9VYrWykM=
+
+Name: system/media/audio/ringtones/Celesta.ogg
+SHA1-Digest: Yb3XxfrZHussPPSCOL7fOX7+wS0=
+
+Name: system/media/audio/notifications/Fresh.ogg
+SHA1-Digest: RIqEgMoupokXMb1ZS1s7Bz0SzQc=
+
+Name: system/media/audio/ui/notice_audition.ogg
+SHA1-Digest: n4Yx2ux2dcUlowJlzeRAsTCQh/E=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: system/media/audio/notifications/FadeIn.ogg
+SHA1-Digest: cR0OWVhfaAPJQ58vDlNOC80XYmI=
+
+Name: system/media/audio/ringtones/IceLatte.ogg
+SHA1-Digest: A2Js0ORwjgAJywkKv6yIofajtL0=
+
+Name: system/media/audio/ui/notification_beep_sound_2.ogg
+SHA1-Digest: n4Yx2ux2dcUlowJlzeRAsTCQh/E=
+
+Name: system/media/audio/ui/disconnect.ogg
+SHA1-Digest: ATmXYqneBOqcZnZpoP04GXlEogU=
+
+Name: system/media/audio/notifications/Clank.ogg
+SHA1-Digest: 8bj46LIvea0R34sdB/mRu3JL7Dw=
+
