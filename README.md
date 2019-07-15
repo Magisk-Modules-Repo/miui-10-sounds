@@ -9,8 +9,11 @@ Some alarm sounds/ringtones may appear repeated in the ringtone chooser, I think
 Changelog 
 
 17/05/19
+
 -Update to new module templete
 
 22/11/18
+
 -Fix some sound directories
+
 -Rename charging sound
