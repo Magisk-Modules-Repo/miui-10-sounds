@@ -6,7 +6,11 @@ UI Sounds are replaced automatically.
 
 Some alarm sounds/ringtones may appear repeated in the ringtone chooser, I think it depends on your rom.
 
-Changelog 22/11/18
+Changelog 
 
+17/05/19
+-Update to new module templete
+
+22/11/18
 -Fix some sound directories
 -Rename charging sound
