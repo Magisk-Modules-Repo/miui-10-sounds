@@ -1,7 +1,6 @@
 id=miui-10-sounds
 name=MIUI 10 Sound Pack
-version=1.2
+version=1.3
 versionCode=1
 author=4PERTURE
 description=This module adds the nice MIUI 10 sounds to any ROM, systemlessly.
-minMagisk=17000
